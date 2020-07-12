@@ -1,0 +1,7 @@
+C:\Users\Korisnik\source\repos\Ispit\Ispit\bin\Debug\Ispit.exe.config
+C:\Users\Korisnik\source\repos\Ispit\Ispit\bin\Debug\Ispit.exe
+C:\Users\Korisnik\source\repos\Ispit\Ispit\bin\Debug\Ispit.pdb
+C:\Users\Korisnik\source\repos\Ispit\Ispit\obj\Debug\Ispit.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\Ispit\Ispit\obj\Debug\Ispit.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Ispit\Ispit\obj\Debug\Ispit.exe
+C:\Users\Korisnik\source\repos\Ispit\Ispit\obj\Debug\Ispit.pdb
